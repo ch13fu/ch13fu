@@ -4,6 +4,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Me</title>
+  <style>
+    body {
+      text-align: center; /* Center the content horizontally */
+    }
+
+    img {
+      display: block; /* Make the image a block-level element */
+      margin: 0 auto; /* Center the image horizontally */
+      width: 100%; /* Stretch the image to 100% of its container width */
+      max-width: 600px; /* Set a maximum width for the image */
+      height: auto; /* Maintain the aspect ratio of the image */
+    }
+  </style>
 </head>
 
 <body>
