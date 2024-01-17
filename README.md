@@ -1,3 +1,7 @@
+
+![ezgif-4-9022c20d8a](https://github.com/ch13fu/ch13fu/assets/153553558/d17a302f-1205-49ff-8488-71e648ba2b0f)
+
+
 [![](https://visitcount.itsvg.in/api?id=ch13fu&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:                                                                       
 👋 Hello, Welcome to my GitHub! 🚀<br><br>👨‍💻 About Me:<br>- 💻 Python & C++ Enthusiast<br>- 🕵️‍♂️ CTF Challenger<br>- 🐛 Bug Bounty Hunter<br><br>🚀 My Skills:<br>- 🐍 Python: Proficient<br>- 🗜️ C++: Proficient<br>- 🧠 Problem-solving: A passion!<br><br>🔍 What I Do:<br>- 🧩 CTF Challenges: Constantly sharpening my skills with Capture The Flag challenges.<br>- 🔍 Bug Bounty: Hunting down bugs for fun and profit.<br><br>📚 Currently Learning:<br>- 👾 Expanding knowledge in cybersecurity<br>- 🚀 Exploring new techniques in software development
