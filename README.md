@@ -1,8 +1,6 @@
 <div align="center">
-  <img  height="540" width:"760px" src="https://github.com/ch13fu/ch13fu/assets/153553558/e86fab7f-aea4-4f73-bb9d-3190c8908b80"  />
+  <img  width="480" height="270" src="https://github.com/ch13fu/ch13fu/assets/153553558/e86fab7f-aea4-4f73-bb9d-3190c8908b80"  />
 </div>
-
-###
 
 ###
 
