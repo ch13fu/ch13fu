@@ -3,7 +3,6 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/ch13fu/ch13fu/output/snake.svg" alt="Snake animation" />
 
 ###
 
