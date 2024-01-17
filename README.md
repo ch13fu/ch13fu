@@ -3,9 +3,9 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=ch13fu&icon=0&color=0)](https://visitcount.itsvg.in)
-# 💫 About Me:                                                                       
-👋 Hello, Welcome to my GitHub! 🚀<br><br>👨‍💻 About Me:<br>- 💻 Python & C++ Enthusiast<br>- 🕵️‍♂️ CTF Challenger<br>- 🐛 Bug Bounty Hunter<br><br>🚀 My Skills:<br>- 🐍 Python: Proficient<br>- 🗜️ C++: Proficient<br>- 🧠 Problem-solving: A passion!<br><br>🔍 What I Do:<br>- 🧩 CTF Challenges: Constantly sharpening my skills with Capture The Flag challenges.<br>- 🔍 Bug Bounty: Hunting down bugs for fun and profit.<br>
-# 💻 Tech Stack:
+## 💫 About Me:                                                                       
+👋 Hello, Welcome to my GitHub! 🚀<br><br>👨‍💻 About Me:<br>- 💻 Python & C++ developer <br>- 🕵️‍♂️ CTF Challenger<br>- 🐛 Bug Bounty Hunter<br><br>🚀 My Skills:<br>- 🐍 Python: Proficient<br>- 🗜️ C++: Proficient<br>- 🧠 Problem-solving: A passion!<br><br>🔍 What I Do:<br>- 🧩 CTF Challenges: Constantly sharpening my skills with Capture The Flag challenges.<br>- 🔍 Bug Bounty: Hunting down bugs for fun and profit.<br>
+## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 
 
