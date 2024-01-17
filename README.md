@@ -1,19 +1,10 @@
-<div align="center">
-  <img height="500" width="700" src="https://github.com/ch13fu/ch13fu/assets/153553558/e86fab7f-aea4-4f73-bb9d-3190c8908b80"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  <img height="400" src="https://github.com/ch13fu/ch13fu/assets/153553558/e86fab7f-aea4-4f73-bb9d-3190c8908b80"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ch13fu.ch13fu&left_color=darkgray&right_color=tomato"  />
@@ -21,7 +12,18 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
+</div>
+
+###
+
 <h3 align="left">Summary:</h3>
+
+###
 
 <h4 align="left">I'm a software engineer and malware researcher with a strong passion for CTF challenges. I enjoy constantly learning about new technologies and expanding my knowledge in the field.</h4>
 
@@ -57,6 +59,17 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo"  />
+</div>
+
+###
+
+<h3 align="left">Profile statistics</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ch13fu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ch13fu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
