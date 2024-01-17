@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:                                                                       [![](https://visitcount.itsvg.in/api?id=ch13fu&icon=0&color=0)](https://visitcount.itsvg.in)
 👋 Hello, Welcome to my GitHub world! 🚀<br><br>👨‍💻 About Me:<br>- 💻 Python & C++ Enthusiast<br>- 🕵️‍♂️ CTF Challenger<br>- 🐛 Bug Bounty Hunter<br><br>🚀 My Skills:<br>- 🐍 Python: Proficient<br>- 🗜️ C++: Proficient<br>- 🧠 Problem-solving: A passion!<br><br>🔍 What I Do:<br>- 🧩 CTF Challenges: Constantly sharpening my skills with Capture The Flag challenges.<br>- 🔍 Bug Bounty: Hunting down bugs for fun and profit.<br><br>📚 Currently Learning:<br>- 👾 Expanding knowledge in cybersecurity<br>- 🚀 Exploring new techniques in software development
 
 # 💻 Tech Stack:
@@ -7,7 +7,6 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/test) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@c3rypt011) 
-[![](https://visitcount.itsvg.in/api?id=ch13fu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ch13fu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
