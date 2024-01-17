@@ -23,8 +23,6 @@
 
 <h3 align="left">Summary:</h3>
 
-###
-
 <h4 align="left">I'm a software engineer and malware researcher with a strong passion for CTF challenges. I enjoy constantly learning about new technologies and expanding my knowledge in the field.</h4>
 
 ###
