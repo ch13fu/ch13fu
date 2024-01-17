@@ -17,11 +17,25 @@
       max-width: 600px; /* Set a maximum width for the image */
       height: auto; /* Maintain the aspect ratio of the image */
     }
+
+    .top-image-container {
+      width: 100%;
+      height: 100px; /* Set the height as needed */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .top-image-container img {
+      max-height: 100%; /* Adjust max height as needed */
+    }
   </style>
 </head>
 
 <body>
-  <img src="https://github.com/ch13fu/ch13fu/assets/153553558/d17a302f-1205-49ff-8488-71e648ba2b0f" alt="Profile">
+  <div class="top-image-container">
+    <img src="https://github.com/ch13fu/ch13fu/assets/153553558/d17a302f-1205-49ff-8488-71e648ba2b0f" alt="Profile">
+  </div>
 
   <a href="https://visitcount.itsvg.in/api?id=ch13fu&icon=0&color=0" target="_blank" rel="noopener noreferrer">
     <img src="https://visitcount.itsvg.in/api?id=ch13fu&icon=0&color=0" alt="Visitor Count">
